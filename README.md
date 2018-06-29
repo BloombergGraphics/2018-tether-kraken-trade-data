@@ -1,11 +1,9 @@
 # 2018-tether-kraken-trade-data
-Tether-USD transactions data used in the June 29, 2018
 
+This repo contains data used in the June 29, 2018, story "[Crypto Coin Tether Defies Logic on Kraken's Market, Raising Red Flags](https://bloomberg.com/graphics/2018-tether-kraken-trades/)."
 
 
 ## Tether-USD Transactions Retrieved From the Kraken API
-
-This repo contains data used in the June 29, 2018, story "[Crypto Coin Tether Defies Logic on Kraken's Market, Raising Red Flags](https://bloomberg.com/graphics/2018-tether-kraken-trades/)."
 
 All data are Tether-USD transactions on Kraken from May 1 through June 22. The data used in this story were compiled by Bloomberg via the [Kraken API](https://www.kraken.com/help/api) on June 27. Bloomberg used the [krakenex](https://github.com/veox/python3-krakenex) Python 3 API client listed by [Kraken](https://www.kraken.com/help/api) and the [pykrakenapi](https://github.com/dominiktraxl/pykrakenapi) wrapper listed on the krakenex GitHub page to retrieve the data. Documentation is available on those GitHub pages.
 
